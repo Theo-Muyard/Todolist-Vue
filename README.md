@@ -20,6 +20,8 @@ Une simple application de liste de tâches construite avec [Vue 3](https://vuejs
 
 1. Clone le dépôt :
    ```bash
-   git clone https://github.com/ton-pseudo/vue-todolist.git
+   git clone https://github.com/Theo-Muyard/Todolist-Vue.git
    cd vue-todolist
+   npm install
+   npm run dev
    ```
